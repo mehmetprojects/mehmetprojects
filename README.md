@@ -5,6 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Proffesional Luau + HTML and CSS Codder
+Proffesional Minecraft Blockbench Modeler
+Proffesional Minecraft Modder
+Roblox Studio Dev
+Tooble Studios Owner and Founder
+
+Work work work! and fuck exams
 
 ```
 
