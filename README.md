@@ -4,12 +4,16 @@
 
 <!--START_SECTION:waka-->
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmetprojects&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## 
+
 ```txt
-LUAU            47 mins         ███████████░░░░░░░░░░░░░░   44.56 %
-CSS           41 mins         █████████▓░░░░░░░░░░░░░░░   38.15 %
-LUAU        9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-JavaSt        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % (javascript)
-PHP          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+
 ```
 
 <!--END_SECTION:waka-->
